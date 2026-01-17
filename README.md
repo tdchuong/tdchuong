@@ -1,5 +1,5 @@
 # Hi, I'm tdchuong 👋
-
+> Crafting thoughtful, useful software and learning something new every day.
 <!--
 **tdchuong/tdchuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
